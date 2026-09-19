@@ -1,0 +1,151 @@
+{
+    "Tomato___Bacterial_spot": {
+        "MILD": {
+            "min_days": 7,
+            "max_days": 12
+        },
+        "MODERATE": {
+            "min_days": 12,
+            "max_days": 18
+        },
+        "SEVERE": {
+            "min_days": 18,
+            "max_days": 28
+        }
+    },
+
+    "Tomato___Early_blight": {
+        "MILD": {
+            "min_days": 5,
+            "max_days": 7
+        },
+        "MODERATE": {
+            "min_days": 7,
+            "max_days": 12
+        },
+        "SEVERE": {
+            "min_days": 12,
+            "max_days": 20
+        }
+    },
+
+    "Tomato___Late_blight": {
+        "MILD": {
+            "min_days": 7,
+            "max_days": 10
+        },
+        "MODERATE": {
+            "min_days": 10,
+            "max_days": 16
+        },
+        "SEVERE": {
+            "min_days": 16,
+            "max_days": 25
+        }
+    },
+
+    "Tomato___Leaf_Mold": {
+        "MILD": {
+            "min_days": 7,
+            "max_days": 10
+        },
+        "MODERATE": {
+            "min_days": 10,
+            "max_days": 16
+        },
+        "SEVERE": {
+            "min_days": 16,
+            "max_days": 24
+        }
+    },
+
+    "Tomato___Septoria_leaf_spot": {
+        "MILD": {
+            "min_days": 7,
+            "max_days": 12
+        },
+        "MODERATE": {
+            "min_days": 12,
+            "max_days": 18
+        },
+        "SEVERE": {
+            "min_days": 18,
+            "max_days": 28
+        }
+    },
+
+    "Tomato___Spider_mites Two-spotted_spider_mite": {
+        "MILD": {
+            "min_days": 4,
+            "max_days": 7
+        },
+        "MODERATE": {
+            "min_days": 7,
+            "max_days": 12
+        },
+        "SEVERE": {
+            "min_days": 12,
+            "max_days": 20
+        }
+    },
+
+    "Tomato___Target_Spot": {
+        "MILD": {
+            "min_days": 7,
+            "max_days": 10
+        },
+        "MODERATE": {
+            "min_days": 10,
+            "max_days": 16
+        },
+        "SEVERE": {
+            "min_days": 16,
+            "max_days": 24
+        }
+    },
+
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+        "MILD": {
+            "min_days": 10,
+            "max_days": 15
+        },
+        "MODERATE": {
+            "min_days": 15,
+            "max_days": 25
+        },
+        "SEVERE": {
+            "min_days": 25,
+            "max_days": 40
+        }
+    },
+
+    "Tomato___Tomato_mosaic_virus": {
+        "MILD": {
+            "min_days": 10,
+            "max_days": 15
+        },
+        "MODERATE": {
+            "min_days": 15,
+            "max_days": 25
+        },
+        "SEVERE": {
+            "min_days": 25,
+            "max_days": 40
+        }
+    },
+
+    "Tomato___healthy": {
+        "MILD": {
+            "min_days": 0,
+            "max_days": 0
+        },
+        "MODERATE": {
+            "min_days": 0,
+            "max_days": 0
+        },
+        "SEVERE": {
+            "min_days": 0,
+            "max_days": 0
+        }
+    }
+}

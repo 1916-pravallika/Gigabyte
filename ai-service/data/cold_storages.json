@@ -1,0 +1,48 @@
+{
+    "cold_storages": [
+        {
+            "name": "Kurnool Fresh Storage",
+            "location": "Kurnool",
+            "latitude": 15.8281,
+            "longitude": 78.0373,
+            "supported_crops": [
+                "Tomato",
+                "Potato",
+                "Onion"
+            ],
+            "capacity_kg": 20000,
+            "available_capacity_kg": 12000,
+            "cost_per_kg_per_day": 0.40,
+            "contact": "Demo Contact"
+        },
+        {
+            "name": "Guntur Agro Cold Storage",
+            "location": "Guntur",
+            "latitude": 16.3067,
+            "longitude": 80.4365,
+            "supported_crops": [
+                "Tomato",
+                "Chilli",
+                "Onion"
+            ],
+            "capacity_kg": 30000,
+            "available_capacity_kg": 18000,
+            "cost_per_kg_per_day": 0.35,
+            "contact": "Demo Contact"
+        },
+        {
+            "name": "Ongole Vegetable Storage",
+            "location": "Ongole",
+            "latitude": 15.5057,
+            "longitude": 80.0499,
+            "supported_crops": [
+                "Tomato",
+                "Vegetables"
+            ],
+            "capacity_kg": 15000,
+            "available_capacity_kg": 7000,
+            "cost_per_kg_per_day": 0.45,
+            "contact": "Demo Contact"
+        }
+    ]
+}

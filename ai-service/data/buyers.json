@@ -1,0 +1,31 @@
+{
+    "Tomato": [
+        {
+            "name": "Sri Lakshmi Fresh Produce",
+            "type": "Buyer",
+            "location": "Kurnool",
+            "distance_km": 42,
+            "required_quantity_kg": 5000,
+            "indicative_price_per_kg": 27,
+            "contact": "Demo Contact"
+        },
+        {
+            "name": "Andhra Fresh Foods",
+            "type": "Buyer",
+            "location": "Guntur",
+            "distance_km": 118,
+            "required_quantity_kg": 10000,
+            "indicative_price_per_kg": 29,
+            "contact": "Demo Contact"
+        },
+        {
+            "name": "Local Vegetable Aggregator",
+            "type": "Buyer",
+            "location": "Ongole",
+            "distance_km": 95,
+            "required_quantity_kg": 3000,
+            "indicative_price_per_kg": 26,
+            "contact": "Demo Contact"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "Tomato": [
+        {
+            "name": "Kurnool Tomato Farmers FPO",
+            "location": "Kurnool",
+            "distance_km": 45,
+            "member_count": 320,
+            "required_quantity_kg": 15000,
+            "indicative_price_per_kg": 28,
+            "contact": "Demo Contact"
+        },
+        {
+            "name": "Guntur Vegetable Producers FPO",
+            "location": "Guntur",
+            "distance_km": 120,
+            "member_count": 450,
+            "required_quantity_kg": 20000,
+            "indicative_price_per_kg": 29,
+            "contact": "Demo Contact"
+        }
+    ]
+}

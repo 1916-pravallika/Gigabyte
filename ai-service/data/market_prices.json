@@ -1,0 +1,32 @@
+{
+    "Tomato": [
+        {
+            "market": "Kurnool Market",
+            "location": "Kurnool",
+            "price_per_kg": 28,
+            "buyer_type": "Wholesale",
+            "demand": "High"
+        },
+        {
+            "market": "Guntur Market",
+            "location": "Guntur",
+            "price_per_kg": 25,
+            "buyer_type": "Wholesale",
+            "demand": "Medium"
+        },
+        {
+            "market": "Vijayawada Market",
+            "location": "Vijayawada",
+            "price_per_kg": 30,
+            "buyer_type": "Wholesale",
+            "demand": "High"
+        },
+        {
+            "market": "Ongole Market",
+            "location": "Ongole",
+            "price_per_kg": 27,
+            "buyer_type": "Wholesale",
+            "demand": "Medium"
+        }
+    ]
+}

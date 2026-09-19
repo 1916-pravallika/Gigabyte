@@ -1,0 +1,25 @@
+{
+    "transport_options": [
+        {
+            "provider": "Local Mini Truck",
+            "vehicle_type": "Mini Truck",
+            "cost_per_km": 25,
+            "capacity_kg": 3000,
+            "contact": "Demo Contact"
+        },
+        {
+            "provider": "Agri Transport Service",
+            "vehicle_type": "Medium Truck",
+            "cost_per_km": 35,
+            "capacity_kg": 7000,
+            "contact": "Demo Contact"
+        },
+        {
+            "provider": "Farm Logistics Partner",
+            "vehicle_type": "Large Truck",
+            "cost_per_km": 50,
+            "capacity_kg": 15000,
+            "contact": "Demo Contact"
+        }
+    ]
+}

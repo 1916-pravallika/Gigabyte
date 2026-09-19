@@ -1,0 +1,180 @@
+{
+    "Tomato___Bacterial_spot": {
+        "disease_name": "Bacterial Spot",
+        "description": "A bacterial disease that can cause dark spots on tomato leaves and fruit.",
+        "steps": [
+            "Remove and safely dispose of heavily affected leaves.",
+            "Avoid working with plants when foliage is wet.",
+            "Avoid overhead watering and keep foliage as dry as practical.",
+            "Maintain good spacing and airflow between plants.",
+            "Use only locally registered treatments according to the product label and agricultural guidance."
+        ],
+        "prevention": [
+            "Use healthy planting material.",
+            "Keep tools and equipment clean.",
+            "Remove heavily infected plant debris.",
+            "Avoid unnecessary leaf wetness."
+        ]
+    },
+
+    "Tomato___Early_blight": {
+        "disease_name": "Early Blight",
+        "description": "A fungal disease that commonly produces dark lesions on tomato leaves.",
+        "steps": [
+            "Remove heavily affected leaves where practical.",
+            "Improve airflow around plants.",
+            "Avoid overhead irrigation.",
+            "Keep the area around plants free from infected plant debris.",
+            "Use locally registered fungicide options only according to the product label and agricultural guidance."
+        ],
+        "prevention": [
+            "Practice crop rotation where possible.",
+            "Maintain good plant spacing.",
+            "Remove infected plant debris.",
+            "Avoid prolonged leaf wetness."
+        ]
+    },
+
+    "Tomato___Late_blight": {
+        "disease_name": "Late Blight",
+        "description": "A serious disease that can spread rapidly under cool and humid conditions.",
+        "steps": [
+            "Separate or remove severely affected plant material where practical.",
+            "Avoid overhead watering.",
+            "Improve airflow around plants.",
+            "Do not move contaminated plant material between healthy plants.",
+            "Seek local agricultural guidance promptly for an appropriate registered treatment."
+        ],
+        "prevention": [
+            "Monitor plants frequently during favorable weather conditions.",
+            "Remove infected plant material promptly.",
+            "Avoid prolonged leaf wetness.",
+            "Use healthy planting material."
+        ]
+    },
+
+    "Tomato___Leaf_Mold": {
+        "disease_name": "Leaf Mold",
+        "description": "A fungal disease that commonly develops under high humidity.",
+        "steps": [
+            "Improve ventilation and airflow.",
+            "Reduce prolonged leaf wetness.",
+            "Remove severely affected leaves.",
+            "Avoid unnecessary overhead watering.",
+            "Use locally registered treatment options according to agricultural guidance."
+        ],
+        "prevention": [
+            "Maintain good spacing.",
+            "Improve greenhouse ventilation where applicable.",
+            "Keep foliage as dry as practical.",
+            "Remove infected plant debris."
+        ]
+    },
+
+    "Tomato___Septoria_leaf_spot": {
+        "disease_name": "Septoria Leaf Spot",
+        "description": "A fungal disease that produces small spots on tomato leaves.",
+        "steps": [
+            "Remove severely affected lower leaves where practical.",
+            "Remove infected plant debris.",
+            "Avoid overhead irrigation.",
+            "Improve airflow around plants.",
+            "Use locally registered fungicide options according to the product label and agricultural guidance."
+        ],
+        "prevention": [
+            "Practice crop rotation where possible.",
+            "Maintain good plant spacing.",
+            "Keep the growing area clean.",
+            "Avoid prolonged leaf wetness."
+        ]
+    },
+
+    "Tomato___Spider_mites Two-spotted_spider_mite": {
+        "disease_name": "Spider Mites",
+        "description": "Spider mites are small pests that can cause leaf stippling, yellowing and webbing.",
+        "steps": [
+            "Inspect the underside of leaves carefully.",
+            "Remove severely affected plant material where practical.",
+            "Reduce plant stress and maintain appropriate irrigation.",
+            "Monitor nearby plants because mites can spread.",
+            "Use locally registered pest-control options according to the product label and agricultural guidance."
+        ],
+        "prevention": [
+            "Regularly inspect the underside of leaves.",
+            "Monitor plants during hot and dry conditions.",
+            "Avoid unnecessary plant stress.",
+            "Encourage beneficial insects where appropriate."
+        ]
+    },
+
+    "Tomato___Target_Spot": {
+        "disease_name": "Target Spot",
+        "description": "A fungal disease that can cause circular lesions on tomato leaves and fruit.",
+        "steps": [
+            "Remove severely affected leaves where practical.",
+            "Improve airflow around plants.",
+            "Avoid overhead irrigation.",
+            "Remove infected plant debris.",
+            "Use locally registered treatment options according to agricultural guidance."
+        ],
+        "prevention": [
+            "Maintain adequate plant spacing.",
+            "Avoid prolonged leaf wetness.",
+            "Remove infected debris.",
+            "Monitor plants regularly."
+        ]
+    },
+
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+        "disease_name": "Tomato Yellow Leaf Curl Virus",
+        "description": "A viral disease commonly associated with whitefly transmission and leaf curling/yellowing.",
+        "steps": [
+            "Inspect nearby plants for similar symptoms.",
+            "Remove severely infected plants where appropriate.",
+            "Manage the insect vector using locally recommended integrated pest-management practices.",
+            "Use healthy planting material.",
+            "Seek local agricultural guidance because viral diseases generally cannot be cured by fungicides."
+        ],
+        "prevention": [
+            "Use healthy seedlings.",
+            "Monitor and manage whiteflies.",
+            "Remove infected plants where recommended.",
+            "Control weeds that may support insect vectors."
+        ]
+    },
+
+    "Tomato___Tomato_mosaic_virus": {
+        "disease_name": "Tomato Mosaic Virus",
+        "description": "A viral disease that can cause mosaic patterns, leaf distortion and reduced plant growth.",
+        "steps": [
+            "Remove severely infected plants where appropriate.",
+            "Avoid touching healthy plants after handling infected plants without cleaning hands and tools.",
+            "Clean tools regularly.",
+            "Use healthy planting material.",
+            "Seek local agricultural guidance for disease-management practices."
+        ],
+        "prevention": [
+            "Use clean planting material.",
+            "Sanitize tools.",
+            "Avoid spreading plant sap between plants.",
+            "Remove infected plant debris."
+        ]
+    },
+
+    "Tomato___healthy": {
+        "disease_name": "Healthy",
+        "description": "No disease was detected by the current classification model.",
+        "steps": [
+            "Continue regular crop monitoring.",
+            "Maintain appropriate irrigation and nutrition.",
+            "Inspect leaves regularly for new symptoms.",
+            "Monitor for insects and disease development."
+        ],
+        "prevention": [
+            "Maintain good field hygiene.",
+            "Monitor plants regularly.",
+            "Use healthy planting material.",
+            "Maintain appropriate spacing and airflow."
+        ]
+    }
+}
